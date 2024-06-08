@@ -8,6 +8,8 @@ Proyecto demo para la prueba tecnica
 
 Para levantar los contenedores definidos en el docker_compose.yml se puede utilizar el siguiente comando:
 
+Primero situate en la carpeta raiz donde esta el documento docker-compose.yml para poder ejecutar el comando.
+
 ```bash
 docker-compose up -d
 ```
